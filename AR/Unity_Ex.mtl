@@ -1,0 +1,40 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Brick_Antique_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.411765 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd Unity_Ex/Brick_Antique_01.jpg
+
+newmtl Translucent_Glass_Tinted
+Ka 0.000000 0.000000 0.000000
+Kd 0.027451 0.788235 0.941176
+Ks 0.330000 0.330000 0.330000
+d 0.480000
+map_Kd Unity_Ex/Translucent_Glass_Tinted.jpg
+
+newmtl Brick_Rough_Tan
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.552941 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd Unity_Ex/Brick_Rough_Tan.jpg
+
+newmtl Wood_Bamboo
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.411765 0.168627
+Ks 0.330000 0.330000 0.330000
+map_Kd Unity_Ex/Wood_Bamboo.jpg
+
+newmtl Translucent_Glass_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.584314 0.929412
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+
